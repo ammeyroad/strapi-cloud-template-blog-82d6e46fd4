@@ -1,0 +1,1 @@
+{"collectionName": "contents", "info": {"singularName": "content", "pluralName": "contents", "displayName": "Content"}, "options": {"draftAndPublish": False}, "attributes": {"label": {"type": "string"}, "type": {"type": "enumeration", "enum": ["text", "richtext", "image", "video", "button", "quote", "icon-box"]}, "value": {"type": "json"}, "order": {"type": "integer"}}}
